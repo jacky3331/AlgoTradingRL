@@ -2,10 +2,11 @@
 - A reinforcement learning application for trading stocks and cryptocurrency.
 
 #### Project Updates #### 
-- Extracted daily market data for various stocks and bitcoin.
+- Extracted daily market data for various stocks and bitcoin
 - Implemented stablebaselines3 with various trading environments
 - Implemented custom trading environment with new trading indicators
 - Implemented keras reinforcement learning
+- Working on implementing LSTM layers for my RL models
 
 #### Content #### 
 - Reinforcement Learning (stable_baselines3, keras)
